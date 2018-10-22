@@ -1,0 +1,103 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Jessica Younker",
+        "dept": "finance"
+      },
+      {
+        "id": 2,
+        "name": "Jordan Nelson",
+        "dept": "HR"
+      },
+      {
+        "id": 3,
+        "name": "Zoe LeBlanc",
+        "dept": "Computer Sciencd"
+      },
+      {
+        "id": 5,
+        "name": "Priyanka",
+        "dept": "IT"
+      },
+      {
+        "name": "Kauhsal",
+        "dept": "Delivery",
+        "id": 7
+      }
+    ],
+    "locations": [
+      {
+        "id": 2,
+        "name": "Nashville South",
+        "address": "10101 Binary Court"
+      },
+      {
+        "id": 3,
+        "name": "Thompson station",
+        "address": "1000 Brixworth"
+      },
+      {
+        "id": 4,
+        "name": "Franklin",
+        "address": "10102 Champions Circle"
+      }
+    ],
+    "animals": [
+      {
+        "id": 2,
+        "name": "Jack",
+        "breed": "doverman"
+      },
+      {
+        "id": 4,
+        "name": "tuffy2",
+        "breed": "white dog",
+        "employee": 5
+      },
+      {
+        "id": 5,
+        "name": "Augus",
+        "breed": "abc"
+      },
+      {
+        "id": 6,
+        "name": "tuffy",
+        "breed": "asd"
+      },
+      {
+        "name": "abc",
+        "breed": "xyz",
+        "employeeId": 1,
+        "id": 7
+      },
+      {
+        "name": "abc",
+        "breed": "ghgh",
+        "employeeId": 3,
+        "id": 9
+      }
+    ],
+    "owners": [
+      {
+        "id": 1,
+        "name": "Kaushal"
+      },
+      {
+        "id": 2,
+        "name": "Priyanka"
+      },
+      {
+        "id": 3,
+        "name": "Aryan"
+      },
+      {
+        "id": 4,
+        "name": "Sharad"
+      },
+      {
+        "id": 5,
+        "name": "Sunil"
+      }
+    ]
+  }
